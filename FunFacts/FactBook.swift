@@ -22,9 +22,9 @@ struct FactBook {
         "Mammoths still walked the earth when the Great Pyramid was being built." ]
     
     func randomFact() -> String {
-        var unsignedArrayCount = UInt32(factsArray.count)
-        var unsignedRandomNumber = arc4random_uniform(unsignedArrayCount)
-        var randomNUmber = Int(unsignedRandomNumber)
+        let unsignedArrayCount = UInt32(factsArray.count)
+        let unsignedRandomNumber = arc4random_uniform(unsignedArrayCount)
+        let randomNUmber = Int(unsignedRandomNumber)
         return factsArray[randomNUmber]
     }
 }
