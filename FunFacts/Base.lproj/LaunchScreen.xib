@@ -11,7 +11,7 @@
             <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Famous Quotes" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ghi-Rj-A7e">
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Quotes for Thoughts" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ghi-Rj-A7e">
                     <rect key="frame" x="114" y="229" width="252" height="21"/>
                     <constraints>
                         <constraint firstAttribute="width" constant="252" id="KeR-aN-2PC"/>
@@ -21,7 +21,7 @@
                     <nil key="highlightedColor"/>
                 </label>
             </subviews>
-            <color key="backgroundColor" red="0.95294117647058818" green="0.92941176470588238" blue="0.88235294117647056" alpha="1" colorSpace="calibratedRGB"/>
+            <color key="backgroundColor" red="0.55294117647058827" green="0.98039215686274506" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
             <constraints>
                 <constraint firstAttribute="bottom" secondItem="Ghi-Rj-A7e" secondAttribute="bottom" constant="230" id="Gqr-SL-Scp"/>
                 <constraint firstItem="Ghi-Rj-A7e" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="229" id="KYB-Ni-tKl"/>
