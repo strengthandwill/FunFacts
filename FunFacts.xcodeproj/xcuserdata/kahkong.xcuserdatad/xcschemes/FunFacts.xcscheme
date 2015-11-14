@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E98C0DD1B95F13200E0DE09"
-               BuildableName = "FunFacts.app"
+               BuildableName = "Quotes.app"
                BlueprintName = "FunFacts"
                ReferencedContainer = "container:FunFacts.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E98C0DD1B95F13200E0DE09"
-            BuildableName = "FunFacts.app"
+            BuildableName = "Quotes.app"
             BlueprintName = "FunFacts"
             ReferencedContainer = "container:FunFacts.xcodeproj">
          </BuildableReference>
@@ -56,7 +56,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E98C0DD1B95F13200E0DE09"
-            BuildableName = "FunFacts.app"
+            BuildableName = "Quotes.app"
             BlueprintName = "FunFacts"
             ReferencedContainer = "container:FunFacts.xcodeproj">
          </BuildableReference>
@@ -75,7 +75,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E98C0DD1B95F13200E0DE09"
-            BuildableName = "FunFacts.app"
+            BuildableName = "Quotes.app"
             BlueprintName = "FunFacts"
             ReferencedContainer = "container:FunFacts.xcodeproj">
          </BuildableReference>
