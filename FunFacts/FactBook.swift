@@ -2,8 +2,8 @@
 //  FactBook.swift
 //  Simple App
 //
-//  Created by IDA-GDS-PDD on 2/9/15.
-//  Copyright (c) 2015 IDA-GDS-PDD. All rights reserved.
+//  Created by Poh Kah Kong on on 2/9/15.
+//  Copyright (c) 2015 Algomized. All rights reserved.
 //
 
 import Foundation
