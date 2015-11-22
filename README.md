@@ -1,4 +1,4 @@
-# Quotes
+# Quotes for Thoughts
 IOS single screen demo app
 
 <img src="https://github.com/strengthandwill/funfacts/blob/master/FunFacts/Images.xcassets/screenshot1.imageset/screenshot1.png" height="480" />
